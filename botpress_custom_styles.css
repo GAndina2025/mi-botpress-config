@@ -1,0 +1,10 @@
+
+:root {
+  --bp-background-color: #f0f4f8;
+  --bp-bot-bubble-color: #005f73;
+  --bp-user-bubble-color: #0a9396;
+  --bp-primary-text-color: #ffffff;
+  --bp-secondary-text-color: #1e1e1e;
+  --bp-border-radius: 12px;
+  --bp-font-family: 'Arial, sans-serif';
+}
