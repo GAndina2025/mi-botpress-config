@@ -1,1 +1,15 @@
-{"botName": "Gesti\u00f3n Andina Asistente", "botAvatarUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/User_icon-cp.svg/1024px-User_icon-cp.svg.png", "background": "#f0f4f8", "foreground": "#ffffff", "primary": "#005f73", "secondary": "#0a9396", "accent": "#94d2bd", "textColorOnPrimary": "#ffffff", "textColor": "#1e1e1e", "borderRadius": "12px", "fontFamily": "Arial, sans-serif", "clientId": "23050508-5051-42ee-83db-7e2d3107b332"}
+{
+  "botName": "Gestión Andina Asistente",
+  "botAvatarUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/User_icon-cp.svg/1024px-User_icon-cp.svg.png",
+  "background": "#f0f4f8",
+  "foreground": "#ffffff",
+  "primary": "#005f73",
+  "secondary": "#0a9396",
+  "accent": "#94d2bd",
+  "textColorOnPrimary": "#ffffff",
+  "textColor": "#1e1e1e",
+  "borderRadius": "12px",
+  "fontFamily": "Arial, sans-serif",
+  "customStyleUrl": "https://raw.githubusercontent.com/GAndina2025/mi-botpress-config/refs/heads/main/botpress_custom_styles.css",
+  "clientId": "23050508-5051-42ee-83db-7e2d3107b332"
+}
